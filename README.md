@@ -1,2 +1,7 @@
-# clone_facebook_com_tailwindcss
-Usando o Tailwindcss 4 para recriar a interface de login do Facebook
+# Clone Facebook com Tailwindcss 4
+
+Recriado a tela de login do Facebook usando apenas tailwindcss versão 4 com html.
+
+
+## Screenshot
+![](https://github.com/oliveiradeflavio/clone_facebook_com_tailwindcss/blob/main/clone_facebook_tailwindcss.png)
